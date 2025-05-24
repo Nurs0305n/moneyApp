@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orangeDark">#0092FF</color>
+
+    <color name="orange">#13898E</color>
+    <color name="textColor">#2A2A2A</color>
+    <color name="greenColor">#4CAF50</color>
+    <color name="redColor">#F44336</color>
+
+    <color name="category1">#4CAF50</color>
+    <color name="category2">#F44336</color>
+    <color name="category3">#E91E63</color>
+    <color name="category4">#9C27B0</color>
+    <color name="category5">#673AB7</color>
+    <color name="category6">#3F51B5</color>
+
+    <color name="cashColor">#2196F3</color>
+    <color name="cardColor">#00394E</color>
+    <color name="otherColor">#687BE6</color>
+
+</resources>
